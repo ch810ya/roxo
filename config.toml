@@ -1,6 +1,6 @@
-baseURL       = "https://chai.com/"
+# baseURL       = ""
 languageCode  = "en-us"
-title         = "Chaitanya Vuriti"
+title         = "Roxo | Creative Design Agency"
 summarylength = 25
 
 # Site Menus
