@@ -1,7 +1,7 @@
-<h1>Roxo Hugo</h1>
+<h1>Chai Hugo</h1>
 <img src="https://user-images.githubusercontent.com/16266381/76162082-10850b80-6164-11ea-8b20-f30b2611f92c.png" alt="screenshot" width="100%">
 
-Roxo Hugo is a digital agency Hugo theme for creative agencies,  freelancers, graphic designers, photographers. Can be used for any kind of corporate websites who provides digital services with many expertise such as  Design, Digital Products, Development, Campaign & Content, Employer Branding, Animation & Motion Graphics ,Packaging & Product Design, Retail & Spacial, Print & Editorial Design, Concept/Text, Information Design etc. Roxo Hugo’s contact form is supported fabform.
+Chai Hugo is a digital agency Hugo theme for creative agencies,  freelancers, graphic designers, photographers. Can be used for any kind of corporate websites who provides digital services with many expertise such as  Design, Digital Products, Development, Campaign & Content, Employer Branding, Animation & Motion Graphics ,Packaging & Product Design, Retail & Spacial, Print & Editorial Design, Concept/Text, Information Design etc. Chai Hugo’s contact form is supported fabform.
 
 ## Table of Contents
 
@@ -14,14 +14,14 @@ Roxo Hugo is a digital agency Hugo theme for creative agencies,  freelancers, gr
 
 ## Live Demo
 
-Checkout the live demo [here](https://roxo-hugo.staticmania.com/)
+Checkout the live demo [here](https://Chai-hugo.staticmania.com/)
 
 ## Installation
 
-1. Add the repository into your Hugo Project repository as a submodule, `git submodule add git@github.com:StaticMania/roxo-hugo.git themes/roxo-hugo`.
+1. Add the repository into your Hugo Project repository as a submodule, `git submodule add git@github.com:StaticMania/Chai-hugo.git themes/Chai-hugo`.
 2. Copy the `data`, `content`, `static`, `resources` & `config.toml` files from the `exampleSite` directory and paste it on you Hugo Project repository/directory. From the site home directory:
 
-    cp -a themes/roxo-hugo/exampleSite/* .
+    cp -a themes/Chai-hugo/exampleSite/* .
 
 3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
 
@@ -30,12 +30,12 @@ Checkout the live demo [here](https://roxo-hugo.staticmania.com/)
 
 * Responsive Ready.
 * Powered by Bootstrap 4.
-* Dedicated portfolio page.
+* Dedicated destinations page.
 * Blog Support.
 * Well formatted code.
 * Easy Customization.
 * FabForm.io [static website form](https://fabform.io).
-* Crafted for Design Agency/ Portfolio
+* Crafted for Design Agency/ 
 
 ## Support
 
@@ -43,7 +43,7 @@ Have some question or facing any technical trouble feel free to [Contact Us](htt
 
 ## Licensing
 
-This Repository is licensed under the [MIT](https://github.com/StaticMania/roxo-hugo/blob/master/LICENSE) License
+This Repository is licensed under the [MIT](https://github.com/StaticMania/Chai-hugo/blob/master/LICENSE) License
 
 ## Hire
 
