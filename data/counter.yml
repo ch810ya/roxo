@@ -4,14 +4,14 @@ counter_item:
   - title: "Places Travelled"
     number: "1000"
 
-  - title: "Books Published"
-    number: "6"
-
   - title: "Photos Taken"
     number: "15000"
 
   - title: "Posts Written"
     number: "100"
+  
+  - title: "Books Published"
+    number: "6"
 description: "I have been traveling solo since 2013, spending time with the place and the locals, learning about their culture in a way a regular tourist can not do."
 location: "Current Location: Perth, Australia"
 aboutme: "Read full story here"

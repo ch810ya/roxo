@@ -98,12 +98,8 @@ summarylength = 25
     secondary_button_url = "destinations"
 
   [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "address"
-      phone   = "phone"
-      email   = "chai@ch810ya.com"
+    
+    
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Start here ↓"
@@ -124,10 +120,7 @@ summarylength = 25
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Photography"
-          url  = "photography"
-        
-        
-        
+          url  = "photography" 
       # Footer Other Channels
       [params.footer.social]
         title   = "Other Channels"
@@ -143,6 +136,12 @@ summarylength = 25
         [[params.footer.social.link]]
           name = "500px"
           url  = "https://500px.com/p/ch810ya"
+      # Footer Contact Info
+      [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "address"
+      phone   = "phone"
+      email   = "chai@ch810ya.com"
       # Footer Service
       [params.footer.service]
         title       = "We help people:"
