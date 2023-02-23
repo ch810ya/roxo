@@ -5,6 +5,7 @@ type: plan-your-trip
 image: "images/projects/project-thumb-four.jpg"
 category: ["PRODUCT LABEL"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+draft: true
 ---
 
 Everything You Need To Know
