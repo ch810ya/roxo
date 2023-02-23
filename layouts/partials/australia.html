@@ -1,0 +1,33 @@
+{{ with .Site.Params.australia }}
+  {{ if .enable }}
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>{{ .title }}</h2>
+            <p>{{ .subtitle }}</p>
+          </div>
+        </div>
+        {{ range first 2 (where $.Site.RegularPages "Type" "australia") }}
+        <div class="col-lg-6 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            </div>
+            <div class="site-project-item-content">
+              <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+              <h3>{{ .Title }}</h3>
+              <a href="{{ .Permalink }}" class="read-more">View Post</a>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        <div class="col-12 text-center text-lg-left">
+          <a href="blog" class="site-project-cta">Read More about Travelling Australia</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

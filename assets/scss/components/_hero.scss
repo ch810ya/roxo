@@ -16,6 +16,7 @@
   &-content{
     h1{
       margin-bottom: 75px;
+      color:aliceblue;
       @include desktop-lg{
         font-size: 50px;
         margin-bottom: 50px;
@@ -23,6 +24,9 @@
       @include mobile{
         font-size: 40px;
       }
+    }
+    h6{
+      color:rgb(186, 225, 230);
     }
     &-buttons{
       margin: 0;

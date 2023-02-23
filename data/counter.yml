@@ -1,5 +1,5 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "MY STORY!"
 counter_item: 
   - title: "Places Travelled"
     number: "1000"
@@ -12,3 +12,6 @@ counter_item:
 
   - title: "Posts Written"
     number: "100"
+description: "I have been traveling solo since 2013, spending time with the place and the locals, learning about their culture in a way a regular tourist can not do."
+location: "Current Location: Perth, Australia"
+aboutme: "Read full story here"

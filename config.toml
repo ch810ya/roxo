@@ -68,10 +68,10 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "Hi! I'm Chai"
     tagline               = "I'm working as we speak."
-    primary_button        = "Plan your trip"
-    primary_button_url    = "destinations"
-    secondary_button      = "Photography"
-    secondary_button_url  = "photography"
+    primary_button        = "Plan your Trip"
+    primary_button_url    = "plan-your-trip"
+    secondary_button      = "Travel Guides"
+    secondary_button_url  = "destinations"
 
   [params.destinations]
     enable    = true
@@ -82,6 +82,11 @@ summarylength = 25
     enable    = true
     title     = "Latest from the Blog"
     subtitle  = "Find Travel Inspiration"
+
+  [params.australia]
+    enable    = true
+    title     = "All about Australia"
+    subtitle  = "Travel Australia like never before"
 
   [params.call_to_action]
     enable              = true
@@ -101,25 +106,31 @@ summarylength = 25
       email   = "chai@ch810ya.com"
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Start here ↓"
         [[params.footer.sitemap.link]]
-          name = "About Company"
-          url  = "about"
+          name = "Plan your first Trip"
+          url  = "plan-your-trip"
         [[params.footer.sitemap.link]]
-          name = "Destinations"
+          name = "Get Inspired"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Travel Guides"
           url  = "destinations"
         [[params.footer.sitemap.link]]
-          name = "Inspiration"
-          url  = "blog"
+          name = "All About Australia"
+          url  = "australia"
+        [[params.footer.sitemap.link]]
+          name = "All About Me"
+          url  = "about"
         [[params.footer.sitemap.link]]
           name = "Photography"
           url  = "photography"
-        [[params.footer.sitemap.link]]
-          name = "Discover Australia"
-          url  = "australia"
-      # Footer Social Media
+        
+        
+        
+      # Footer Other Channels
       [params.footer.social]
-        title   = "Social Media"
+        title   = "Other Channels"
         [[params.footer.social.link]]
           name = "Medium"
           url  = "https://medium.com/@ch810ya"
