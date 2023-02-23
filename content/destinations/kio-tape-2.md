@@ -1,14 +1,15 @@
 ---
-title: "KIO-TAPE BRAND"
+title: "Australia"
 date: 2019-12-23T20:56:42+06:00
 type: destinations
 image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
-draft: true
+category: ["Oceania"]
+#project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+#draft: true
 ---
+# Coming Soon
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+<!-- The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
 
 The watch has the following features:
@@ -28,3 +29,4 @@ Note: these strings are for the English version of the watch, we will need to us
 
 The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
 
+ -->

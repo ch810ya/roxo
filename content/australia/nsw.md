@@ -3,10 +3,12 @@ title: "New South Wales"
 date: 2019-12-24T13:45:06+06:00
 image: images/australia/blog-post-04.jpg
 feature_image: images/australia/blog-details-image.jpg
-author: Alexender Schoitiz
-draft: true
+author: Chaitanya Vuriti
+#draft: true
 ---
-### Black Lines brand identity, by & Smith
+### Coming Soon
+
+<!-- ### Black Lines brand identity, by & Smith
 
 Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
 
@@ -35,3 +37,4 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 
 > Paul Rand, graphic designer
 
+ -->

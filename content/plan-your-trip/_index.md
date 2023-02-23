@@ -9,4 +9,4 @@ expertise_sectors: ["Destination", "Dates", "Documentation", "Travel planner by 
 - Ready with your Travel Checklist and trying to decide where to go?
 - Visit [Travel Guides](../destinations) for over 100 destinations in Australia or the world.
 
-# Download Travel planner by ch810ya [here](/travel-guides/Backpacking.xlsx)
+<!-- Download Travel planner by ch810ya [here](/travel-guides/Backpacking.xlsx) -->
