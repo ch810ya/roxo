@@ -23,8 +23,8 @@ summarylength = 25
     url     = "photography"
     weight  = 4
     [[menu.nav]]
-    name    = "Discover Australia"
-    url     = "australia"
+    name    = "Plan your Trip"
+    url     = "plan-your-trip"
     weight  = 5
 
 # Site Params
