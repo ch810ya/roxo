@@ -2,7 +2,7 @@
 title: "Lombok to Flores - 4 days and 3 nights on a Boat"
 date: 2022-09-05T00:00:00+00:00
 type: destinations
-image: "images/destinations/project-thumb-four.jpg"
+image: "images/destinations/four-days-lombok-flores.jpeg"
 category: ["Indonesia"]
 #project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 #draft: true
@@ -11,6 +11,8 @@ category: ["Indonesia"]
 The Komodo boat tour was the most amazing experience that I had during my holiday in Indonesia. We booked the 4 days and 3 nights Komodo boat tour with Wanua Adventure. This tour departs from Lombok island and we went all the way to Labuan Bajo in Flores. 
 
 The Komodo tour packages by Wanua Adventure will take you to another world. You'll explore the most beautiful places in Flores island and the Komodo National Park, a UNESCO world heritage.
+
+![Heatmap Of Geo-Tagged Photos](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fshipmap.jpeg?alt=media&token=cedca9a8-cabc-4e19-9044-c8fbe57cb23b)
 
 > Price:
 - Deck Class IDR 2.800.000 PP
@@ -46,19 +48,22 @@ The Komodo tour packages by Wanua Adventure will take you to another world. You'
 
 We took the morning ferry from Gili Air to Lombok and then recieved by the tour staff. We went to their office for the checkin processes, safety breifing etc. Then we hopped onto another van and drove for 3 more hours to the harbor of Kayangan in East Lombok. 
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/boat.jpeg" caption="Our Boat" >}} -->
+
+![Our Boat](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fboat.jpeg?alt=media&token=16a57434-ddc3-4ba6-b67e-6c0671515eea)
 
 > Kenawa island:
 
 On the small uninhabited island there’s nothing but a snack vendor and small restaurant on the beach. A narrow path leads across the island up to the top of a hill. The sun was already low and shining a beautiful golden light on the grass-covered ground. We hiked up the little hill and watched the stunning view of the sunset from there.
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/rinca.jpeg" caption="Kenawa Island" >}} -->
+![Kenawa Island](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Frinca.jpeg?alt=media&token=c292bcb9-50fd-4e0b-9a30-577e53f865be)
+
 
 > Day 2: Whale Shark Point
 
 We woke up to the most exciting morning of all our lives. After a whole night worth of sail, we reached Saleh bay where the Whale sharks come to surface. The most beautiful sight you could have at 5:30 AM and it gets even better when you jump in the ocean to swim alongside them. 
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/whale.jpeg" caption="Snorkelling with Whale Sharks" >}} -->
+![Snorkelling with Whale Sharks](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fwhale.jpeg?alt=media&token=cccca851-1f92-491e-a608-4c849c8bb91b)
+
 
 >Day 3: Komodo Island - Pink Beach - Padar Island
 
@@ -68,34 +73,37 @@ After almost a continuous day and night sail, we reached the most anticipated pa
 
 Komodo National Park is truly one of the most breathtaking places we have been. The islands are characterized by tall hills, white, black and pink sand beaches, and the waters sparkle in gem-tone blues. 
 
-<!-- {{< figure src="banner.jpeg" caption="Komodo Dragon" >}} -->
+![Komodo Dragon](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fkomodo-dragon.jpeg?alt=media&token=00faa250-0f53-42a4-8f8c-300c6d38c77d)
 
 Komodo Island is home to the Komodo Dragon, the largest living lizard on Earth. A bite from these endangered species can be deathly due to its venom. Nevertheless, tourists flock to Komodo Island in hopes to see the creature in its natural habitat.
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/komodo.jpeg" caption="Komodo Dragon (Close up)" >}} -->
+![Komodo Dragon (Close up)](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fkomodo.jpeg?alt=media&token=ef53ad26-787f-4055-b6a3-47dd6a1fc70a)
+
 
 > Pink Beach:
 
 Pieces of broken coral reef are washed ashore and make the sand shimmer in pink. It’s not hard to show in photos unlike some pink beaches unless you edit them so much but this one, it’s pink.
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/pb.jpeg" caption="Pink Beach" >}} -->
+![Pink Beach](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fpb.jpeg?alt=media&token=4a83913e-186b-4e78-ac18-ef9fed0189a4)
+
 
 > Padar island:
 
 Search for Komodo National Park and a photo of Padar Island’s iconic views are sure to appear. Hiking up to the lookout point only takes about 30-40 minutes depending on your fitness level. The views in person are even better than photos. It was definitely worth the hike.
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/pad.jpeg" caption="The Iconic Padar Island" >}} -->
+![The Iconic Padar Island](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fpad.jpeg?alt=media&token=c3d3e97d-30ba-4d82-a429-0016ffe425d6)
+
 
 > Day 4:
 
 We were taken to another Pink beach on Padar Island but people started flocking in by the time went and the beach started getting crowdy. So the crew decided to sail towards Labuan Bajo to find a deserted island just for ourselves. After a 3 hour sail, we found one small island with just one beach.
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/pb2.jpeg" caption="Pink Beach" >}} -->
+![Pink Beach](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Ffour-days-lombok-flores%2Fpb2.jpeg?alt=media&token=c2418589-ae23-4023-99d3-2770b6aac763)
+
 
 We reached the Port of Labuan Bajo around 4 PM.
 After bidding good-byes to our fellow travellers, we walked to our AirBnB,
 freshed-up and wandered on the streets of the beautiful and quite an
 interesting town
-
 
 <!-- Back to *[Damn! I Love Indonesia](../damn-i-love-indonesia)* -->
