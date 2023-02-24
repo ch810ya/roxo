@@ -1,9 +1,9 @@
 ---
 title: "Lombok to Flores - 4 days and 3 nights on a Boat"
 date: 2022-09-05T00:00:00+00:00
-type: destinations
-image: "images/destinations/four-days-lombok-flores.jpeg"
-category: ["Indonesia"]
+type: indonesia
+image: "/images/asia/indonesia/four-days-lombok-flores.jpeg"
+category: ["Asia"]
 #project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 #draft: true
 ---
