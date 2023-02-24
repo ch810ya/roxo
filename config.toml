@@ -1,4 +1,4 @@
-baseURL       = "https://chaivuriti.web.app"
+baseURL       = "https://ch810ya.com"
 languageCode  = "en-us"
 title         = "Chaitanya Vuriti | Travel - Photography"
 summarylength = 25
@@ -35,7 +35,7 @@ summarylength = 25
   description = "Chaitanya Vuriti | Travel and Photography"
   author = "Chaitanya Vuriti"
   # Google Analitycs
-  googleAnalitycsID = "G-SHKQ449SEP"
+  googleAnalitycsID = "G-7Y77LBTX9X"
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://formspree.io/f/xjvdwawg"
 
