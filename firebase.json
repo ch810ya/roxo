@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "public",
-    "site":"ch810ya",
     "ignore": [
       "firebase.json",
       "**/.*",

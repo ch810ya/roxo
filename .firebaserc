@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "chai-7b7fe"
-  }
+    "default": "ch810ya-v",
+    "production": "ch810ya-v"
+  },
+  "targets": {},
+  "etags": {}
 }
