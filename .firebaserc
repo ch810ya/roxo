@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "ch810ya-v",
-    "production": "ch810ya-v"
+    "default": "ch810ya",
+    "production": "ch810ya"
   },
   "targets": {},
   "etags": {}
