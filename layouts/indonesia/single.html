@@ -8,6 +8,10 @@
           <h1>
             {{ .Title }}
           </h1>
+          <h5>
+              {{ .Description }}
+          </h5>
+          </br>
           <div class="site-project-single-description">
             {{ .Content }}
           </div>
@@ -20,8 +24,8 @@
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
               <span class="link-area">
-                <span data-text="Next Project">
-                  Next Project
+                <span data-text="Next Itinerary">
+                  Next Itinerary
                 </span>
               </span>
               <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
@@ -34,6 +38,10 @@
   </div>
 </section>
 
-<!-- {{ partial "call-to-action.html" . }} -->
+{{ partial "plan-your-trip-button.html" . }}
+
+{{ partial "popular-destinations.html" . }}
+
+{{ partial "blog.html" . }}
 
 {{ end }}

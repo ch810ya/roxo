@@ -1,9 +1,9 @@
 ---
 title: "Two Weeks in Indonesia"
-date: 2019-12-23T15:44:46+06:00
-type: indonesia
+description: "Top 10 things to Do in Bali"
+date: 2022-08-28T00:00:00+00:00
 image: "/images/asia/indonesia/two-weeks-in-indonesia.jpeg"
-category: ["Asia"]
+category: ["Popular","Asia"]
 ---
 
  > Currency In Indonesia:
@@ -25,7 +25,7 @@ category: ["Asia"]
 2. [Ubud](#ubud)
 3. [Nusa Penida](#nusa-penida)
 4. [Gili](#gili)
-5. [Komodo National Park](#komodo-island)
+5. [Komodo National Park](#komodo-national-park)
 
 
 ##### Bali
@@ -270,3 +270,6 @@ the places that we've been to, for the past 2 weeks. We flew
 back to Bali, the next day, to catch our flight to Sydney.
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Flabuanbajo.jpg?alt=media&token=fb18d0dc-9bcd-40b7-857a-04a6a7adf5bd" caption="Labuan Bajo Harbour" >}}
+
+
+[Back to Indonesia](../)

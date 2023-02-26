@@ -1,17 +1,3 @@
 enable        : true
 title         : "EUROPE"
 countries  : 
-  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
-    name        : France
-    description : country description 1
-    link        : /indonesia
-
-  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
-    name        : Germany
-    description : country description 2
-    link        : /australia
-
-  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
-    name        : Italy
-    description : country description 3
-    link        : /indonesia 

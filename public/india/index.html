@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
+  <script>
+    Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+    return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+  });
+  </script>
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y77LBTX9X"></script>
   <script>

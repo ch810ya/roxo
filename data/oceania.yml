@@ -1,7 +1,7 @@
 enable        : true
 title         : "OCEANIA"
 countries  : 
-  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
+  - image       : /images/oceania/australia/uluru.jpeg
     name        : Australia
     description : country description 1
     link        : /australia

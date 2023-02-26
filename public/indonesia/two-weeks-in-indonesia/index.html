@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
+  <script>
+    Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+    return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+  });
+  </script>
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y77LBTX9X"></script>
   <script>
@@ -126,6 +131,10 @@
           <h1>
             Two Weeks in Indonesia
           </h1>
+          <h5>
+              Top 10 things to Do in Bali
+          </h5>
+          </br>
           <div class="site-project-single-description">
             <blockquote>
 <p>Currency In Indonesia:</p>
@@ -158,7 +167,7 @@
 <li><a href="#ubud">Ubud</a></li>
 <li><a href="#nusa-penida">Nusa Penida</a></li>
 <li><a href="#gili">Gili</a></li>
-<li><a href="#komodo-island">Komodo National Park</a></li>
+<li><a href="#komodo-national-park">Komodo National Park</a></li>
 </ol>
 <h5 id="bali">Bali</h5>
 <blockquote>
@@ -437,6 +446,7 @@ back to Bali, the next day, to catch our flight to Sydney.</p>
         </figcaption>
 </figure>
 
+<p><a href="../">Back to Indonesia</a></p>
 
           </div>
           <div class="site-project-single-image">
@@ -444,10 +454,10 @@ back to Bali, the next day, to catch our flight to Sydney.</p>
           </div>
           
           <div class="site-project-single-action">
-            <a href="https://ch810ya.com/indonesia/four-days-lombok-flores/">
+            <a href="https://ch810ya.com/indonesia/one-day-in-ubud/">
               <span class="link-area">
-                <span data-text="Next Project">
-                  Next Project
+                <span data-text="Next Itinerary">
+                  Next Itinerary
                 </span>
               </span>
               <img src="https://ch810ya.com/images/to-top.svg" alt="next project">
@@ -460,6 +470,119 @@ back to Bali, the next day, to catch our flight to Sydney.</p>
   </div>
 </section>
 
+
+  
+  <section class="site-cta" style='background-image: url("https://ch810ya.com/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">All Set? Plan your Trip now!</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="https://ch810ya.com/plan-your-trip" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Plan Your Trip">
+                    Plan Your Trip
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://ch810ya.com/travel-guides" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Read more Guides">
+                    Read more Guides
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+
+
+  
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>Popular Travel Guides</h2>
+            <p>Our Most Popular Destinations</p>
+          </div>
+        </div>
+        <div class="row">
+          
+          <div class="col-lg-6 col-md-10 mx-auto">
+            <div class="site-project-item">
+              <div class="site-project-item-thumb">
+                <img src="https://ch810ya.com/images/asia/indonesia/four-days-lombok-flores.jpeg" alt="project-thumb">
+              </div>
+              <div class="site-project-item-content">
+                <h3>Lombok to Flores - 4 days and 3 nights on a Boat</h3>
+                <a href="/indonesia/four-days-lombok-flores/" class="read-more">Travel Here</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-6 col-md-10 mx-auto">
+            <div class="site-project-item">
+              <div class="site-project-item-thumb">
+                <img src="https://ch810ya.com/images/asia/indonesia/two-weeks-in-indonesia.jpeg" alt="project-thumb">
+              </div>
+              <div class="site-project-item-content">
+                <h3>Two Weeks in Indonesia</h3>
+                <a href="/indonesia/two-weeks-in-indonesia/" class="read-more">Travel Here</a>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        <div class="col-12 text-center text-lg-left">
+          <a href="/travel-guides" class="site-project-cta">Explore More Travel Guides</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+
+
+  
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>Latest from the Blog</h2>
+            <p>Find Travel Inspiration</p>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+              <img src="https://ch810ya.com/images/oceania/australia/uluru.jpeg" alt="project-thumb">
+            </div>
+            <div class="site-project-item-content">
+              <span>January 30, 2020</span>
+              <h3>How I Travelled Solo!</h3>
+              <a href="https://ch810ya.com/blog/how-i-travelled-solo/" class="read-more">View Post</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-12 text-center text-lg-left">
+          <a href="blog" class="site-project-cta">Read More Posts</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  
 
 
 

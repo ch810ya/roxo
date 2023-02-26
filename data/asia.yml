@@ -5,9 +5,3 @@ countries  :
     name        : Indonesia
     description : country description 1
     link        : /indonesia
-
-  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
-    name        : India
-    description : country description 2
-    link        : /india
-

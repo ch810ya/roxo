@@ -1,0 +1,50 @@
+{{ with .Site.Params.travel_guides }}
+  {{ if .enable }}
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>{{ .title }}</h2>
+            <p>{{ .subtitle }}</p>
+          </div>
+        </div>
+        {{ range (where $.Site.RegularPages "Type" "indonesia") }}
+        <div class="col-lg-6 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            </div>
+            <div class="site-project-item-content">
+              <span>{{ delimit .Params.category ", " }}</span>
+              <h3>{{ .Title }}</h3>
+              <ul class="site-team-member-social">
+                <li><a href="{{ .Permalink }}"><i>Read Guide</i></a></li>
+                <li><a href="/indonesia/"><i>Read More about Indonesia</i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        {{ range (where $.Site.RegularPages "Type" "australia") }}
+        <div class="col-lg-6 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            </div>
+            <div class="site-project-item-content">
+              <span>{{ delimit .Params.category ", " }}</span>
+              <h3>{{ .Title }}</h3>
+              <ul class="site-team-member-social">
+                <li><a href="{{ .Permalink }}"><i>Read Guide</i></a></li>
+                <li><a href="/australia/"><i>Read More about Australia</i></a></li>
+              </ul>
+          </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

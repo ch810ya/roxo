@@ -1,0 +1,14 @@
+enable        : true
+title         : "Popular Travel Guides"
+subtitle      : "Our Most Popular Destinations"
+destinations  : 
+  - image       : /images/asia/indonesia/four-days-lombok-flores.jpeg
+    name        : Lombok to Flores - 4 days and 3 nights on a Boat
+    description : country description 1
+    link        : /indonesia/four-days-lombok-flores/
+
+  - image       : /images/asia/indonesia/two-weeks-in-indonesia.jpeg
+    name        :  Two Weeks in Indonesia
+    description : country description 2
+    link        : /indonesia/two-weeks-in-indonesia/
+

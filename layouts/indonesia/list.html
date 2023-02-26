@@ -25,11 +25,12 @@
   </div>
 </section>
 
-<!-- {{ partial "australia.html" . }} -->
-
 <section class="site-project" id="project">
   <div class="container">
     <div class="row">
+      <div class="col-lg-12 mx-auto site-project-single-description">
+        {{ .Content }}
+      </div>
       {{ range (.Paginator 10).Pages }}
       <div class="col-lg-6 col-md-10 mx-auto">
         <div class="site-project-item">
@@ -49,15 +50,15 @@
           {{ template "_internal/pagination.html" . }}
         </div>
       </div>
-      <div class="col-md-5">
-        <div class="section-title">
-          <h4>Coming soon</h4>
-        </div>
-      </div>
     </div>
   </div>
 </section>
 
-<!-- {{ partial "call-to-action.html" . }} -->
+{{ partial "plan-your-trip-button.html" . }}
+
+{{ partial "popular-destinations.html" . }}
+
+{{ partial "blog.html" . }}
+
 
 {{ end }}

@@ -71,12 +71,12 @@ summarylength = 25
     primary_button        = "Plan your Trip"
     primary_button_url    = "plan-your-trip"
     secondary_button      = "Travel Guides"
-    secondary_button_url  = "destinations"
+    secondary_button_url  = "travel-guides"
 
-  [params.destinations]
-    enable    = true
-    title     = "Most Popular Destinations"
-    subtitle  = "Our Most Popular Travel Itineraries."
+#  [params.destinations]
+#    enable    = true
+#    title     = "Most Popular Destinations"
+#    subtitle  = "Our Most Popular Travel Itineraries."
 
   [params.blog]
     enable    = true
@@ -87,6 +87,11 @@ summarylength = 25
     enable    = true
     title     = "All about Australia"
     subtitle  = "Travel Australia like never before"
+  
+  [params.travel_guides]
+    enable    = true
+    title     = "Travel Guides"
+    subtitle  = "Travel Australia like never before"
 
   [params.call_to_action]
     enable              = true
@@ -96,6 +101,15 @@ summarylength = 25
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced"
     secondary_button_url = "destinations"
+  
+  [params.plan_your_trip_button]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "All Set? Plan your Trip now!"
+    primary_button      = "Plan Your Trip"
+    primary_button_url  = "plan-your-trip"
+    secondary_button    = "Read more Guides"
+    secondary_button_url = "travel-guides"
 
   [params.footer]
     

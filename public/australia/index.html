@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
+  <script>
+    Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+    return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+  });
+  </script>
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y77LBTX9X"></script>
   <script>
@@ -129,7 +134,7 @@
         </div>
         <div class="site-project-description">
           <p>
-            With 500&#43; travel guides and backpacking itineraries written, we have all the information you need to help you plan your dream trip around the world.
+            sample description 2 lines
           </p>
         </div>
       </div>
@@ -146,6 +151,59 @@
 <section class="site-project" id="project">
   <div class="container">
     <div class="row">
+      <div class="col-lg-12 mx-auto site-project-single-description">
+        <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+<p>Top 5 things to do in X</p>
+</blockquote>
+<!-- raw HTML omitted -->
+<blockquote>
+<p>Here&rsquo;s the most popular itineraries</p>
+</blockquote>
+<ul>
+<li><a href="%5Citinerary1">itinerary1</a></li>
+<li><a href="%5Citinerary2">itinerary2</a></li>
+</ul>
+<!-- raw HTML omitted -->
+<blockquote>
+<p>Currency (in the country)</p>
+</blockquote>
+<ul>
+<li>X$</li>
+</ul>
+<blockquote>
+<p>Budget (for x days):</p>
+</blockquote>
+<ul>
+<li>X$</li>
+</ul>
+<blockquote>
+<p>Average Basic Expenses per day:</p>
+</blockquote>
+<ul>
+<li>Hotel: X$</li>
+<li>Transport: X$</li>
+<li>Food: X$</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>add link to plan your trip (partials)</p>
+<!-- raw HTML omitted -->
+<p>add guides under the country (partials)</p>
+<!-- raw HTML omitted -->
+<p>add affiliate link (partials)</p>
+<!-- raw HTML omitted -->
+<p>add tips and tricks (partials)</p>
+<!-- raw HTML omitted -->
+<p>add link to more blog posts (partials)</p>
+<!-- raw HTML omitted -->
+<p>add link to popular destinations (partials)</p>
+<!-- raw HTML omitted -->
+<p>add link to other topics (partials)</p>
+<!-- raw HTML omitted -->
+
+      </div>
       
       <div class="col-12">
         <div class="site-project-pagination">
@@ -157,7 +215,37 @@
 </section>
 
 
-
+  
+  <section class="site-cta" style='background-image: url("https://ch810ya.com/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">All Set? Plan your Trip now!</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="https://ch810ya.com/plan-your-trip" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Plan Your Trip">
+                    Plan Your Trip
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://ch810ya.com/travel-guides" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Read more Guides">
+                    Read more Guides
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
 
 
 

@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
+  <script>
+    Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+    return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+  });
+  </script>
   
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y77LBTX9X"></script>
   <script>
@@ -135,14 +140,27 @@
   <div class="container">
     <div class="row">
       
+      <div class="col-lg-6">
+        <article class="site-blog-post">
+          
+          <div class="site-blog-post-thumb">
+            <img src="https://ch810ya.com/images/oceania/australia/uluru.jpeg" alt="post-thumb">
+          </div>
+          
+          <div class="site-blog-post-content">
+            <span>January 30, 2020</span>
+            <h3><a href="https://ch810ya.com/blog/how-i-travelled-solo/">How I Travelled Solo!</a></h3>
+            <p>
+              My Solo Backpacking Experiences in Australia! Most people asked me the same question when I said I’m going on a SOLO Backpacking Trip across the East Coast of Australia: WHY? ...
+            </p>
+            <a href="https://ch810ya.com/blog/how-i-travelled-solo/" class="read-more">read more</a>
+          </div>
+        </article>
+      </div>
+      
       <div class="col-12">
         <div class="site-blog-pagination">
           
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div class="section-title">
-          <h4>Coming soon</h4>
         </div>
       </div>
     </div>
