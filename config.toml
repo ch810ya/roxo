@@ -125,7 +125,7 @@ summarylength = 25
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Travel Guides"
-          url  = "destinations"
+          url  = "travel-guides"
         [[params.footer.sitemap.link]]
           name = "All About Australia"
           url  = "australia"
