@@ -160,6 +160,10 @@ For entrance tickets to expensive attractions, I use Backpacker Deals or Bookme.
 
 > *Pro Tip:* Remember to always obey traffic laws, wear your seatbelt, and avoid distracted driving. Enjoy the journey and stay safe on the road!
 
+Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip.
+
+
+
 <!-- ##### Ready with your Travel Checklist and trying to decide where to go?
 - *Visit [Travel Guides](../destinations) for over 100 destinations in Australia or the world.*
 
