@@ -14,8 +14,6 @@
             <p>
               {{ .Description }}
             </p>
-            <br>
-            <p>{{ .Content }}</p>
           </div>
         </div>
       </div>
@@ -25,7 +23,7 @@
 <section class="site-expertise">
   <div class="container">
     <div class="row">
-      {{ with .Params.expertise_title }}
+      {{ with .Params.checklist_title }}
       <div class="col-md-5">
         <div class="section-title">
           <h2>{{ . }}</h2>
@@ -34,11 +32,18 @@
       {{ end }}
       <div class="col-md-6">
         <ul class="site-expertise-list">
-          {{ range .Params.expertise_sectors }}
-          <li>{{ . }}</li>
-          {{ end }}
-        </ul>
+<!--           {{ range .Params.expertise_sectors }}
+          <li><input type="checkbox"> {{ . }}</input></li>
+          {{ end }} -->
+        {{ range .Params.checklist }}
+            <li><input type="checkbox"> {{ .text }} </input><a style="font-size:medium;" href="{{ .link | absURL }}"><i>{{ .linkdesc }}</i></a></li>
+            {{ end }}
+          </ul>
       </div>
+        <div class=" col-lg-8 mx-auto site-project-single-description">
+        </br>
+          {{ .Content }}
+        </div>
     </div>
   </div>
 </section>
