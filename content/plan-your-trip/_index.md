@@ -2,7 +2,7 @@
 title: "Plan your First Trip"
 date: 2018-07-12T18:19:33+06:00
 heading : "ALL YOU EVER NEED TO KNOW IN ONE PLACE"
-description : "START PLANNING YOUR NEXT ADVENTURE HERE"
+description : "TRAVEL PLANNER BY CH810YA - START PLANNING YOUR NEXT ADVENTURE HERE"
 checklist_title: "Travel Checklist Essentials"
 checklist  :
   - link       : /destinations
@@ -13,7 +13,7 @@ checklist  :
     text        : Documentation (Passport, Visa, Air tickets)
   - link       : 
     linkdesc    : 
-    text        : Local Currency & Int'l Travel Card
+    text        : Local Currency & Int'l Travel Card (Check out Wise)
   - link       : /travel-guides/Travel_Planner_ch810ya.xlsx
     linkdesc    : (Download Here)
     text        : Travel planner by ch810ya
@@ -35,8 +35,6 @@ I have compiled a list of all the resources that I have used over the past 5 yea
 3. [Public Transportation](#public-transportation)
 5. [Day Trips & Tours](#day-trips-&-tours)
 6. [Travel Checklists by ch810ya](#travel-checklists-by-ch810ya)
-
-
 
 ##### Book Your Flights
 
@@ -122,45 +120,50 @@ For entrance tickets to expensive attractions, I use Backpacker Deals or Bookme.
 
 > ###### Travel Checklist for backpacking to another country:
 
-- **Passport**: Make sure your passport is valid and has at least six months left before it expires.
-- **Visa**: Check if you need a visa to enter the country you're visiting and apply for it in advance if necessary.
-- **Travel insurance**: Get travel insurance that covers medical expenses, theft, and trip cancellation.
-- **Flight tickets**: Book your flight tickets and print out your itinerary.
-- **Accommodation**: Book your accommodation in advance, at least for the first few nights of your trip.
-- **Vaccinations**: Check if you need any vaccinations for the country you're visiting and get them at least a few weeks before your trip.
-- **Money**: Bring enough local currency for your trip or get a travel card that allows you to withdraw money from ATMs abroad. Also, bring a credit card for emergencies.
-- **Phone and charger**: Bring your phone and charger and make sure your phone is unlocked if you plan to use a local SIM card.
-- **Travel adapter**: Bring a travel adapter if the country you're visiting has different electrical outlets.
-- **Backpack and packing list**: Pack light and bring only what you need. Make a packing list and double-check it before you leave.
-- **Local transportation**: Research the local transportation options and plan your route from the airport to your accommodation.
-- **Language**: Learn a few basic phrases in the local language to help you get by.
-- **Safety**: Research the safety situation in the country you're visiting and take necessary precautions.
-- **Emergency contact information**: Write down emergency contact information, including the contact information for the nearest embassy or consulate.
-- **Itinerary**: Make a rough itinerary for your trip, including the places you want to visit and the activities you want to do.
+- [ ] **Passport**: Make sure your passport is valid and has at least six months left before it expires.
+- [ ] **Visa**: Check if you need a visa to enter the country you're visiting and apply for it in advance if necessary.
+- [ ] **Travel insurance**: Get travel insurance that covers medical expenses, theft, and trip cancellation.
+- [ ] **Flight tickets**: Book your flight tickets and print out your itinerary.
+- [ ] **Accommodation**: Book your accommodation in advance, at least for the first few nights of your trip.
+- [ ] **Vaccinations**: Check if you need any vaccinations for the country you're visiting and get them at least a few weeks before your trip.
+- [ ] **Money**: Bring enough local currency for your trip or get a travel card that allows you to withdraw money from ATMs abroad. Also, bring a credit card for emergencies. 
+-----
+###### Wise:
+My recommendation would be Wise Card, an International Debit card that enables transactions in numerous currencies with minimal fees. What I find most useful is the unlimited Virtual Debit Cards feature, which lets you generate multiple cards to use in situations where you're hesitant to share your regular bank card information with a website or agency. You can explore other features and sign up for an account with {{< openurl " Wise here" "https://wise.com/invite/in/saiv147" >}}
+
+-----
+- [ ] **Phone and charger**: Bring your phone and charger and make sure your phone is unlocked if you plan to use a local SIM card.
+- [ ] **Travel adapter**: Bring a travel adapter if the country you're visiting has different electrical outlets.
+- [ ] **Backpack and packing list**: Pack light and bring only what you need. Make a packing list and double-check it before you leave.
+- [ ] **Local transportation**: Research the local transportation options and plan your route from the airport to your accommodation.
+- [ ] **Language**: Learn a few basic phrases in the local language to help you get by.
+- [ ] **Safety**: Research the safety situation in the country you're visiting and take necessary precautions.
+- [ ] **Emergency contact information**: Write down emergency contact information, including the contact information for the nearest embassy or consulate.
+- [ ] **Itinerary**: Make a rough itinerary for your trip, including the places you want to visit and the activities you want to do.
 
 > *Pro Tip:*  Remember to also notify your bank and any credit card companies you're using that you will be traveling abroad, to avoid any issues with your card being blocked. Additionally, consider purchasing a portable power bank and a small lock for your backpack.
 
 > ###### Travel Checklist for Road Trips:
 
-- **Vehicle maintenance**: Get your vehicle checked by a mechanic before your trip, including oil change, tire pressure, brakes, and any other necessary maintenance.
-- **Maps and GPS**: Bring a physical map and a GPS device or make sure you have maps downloaded on your phone.
-- **Emergency kit**: Pack an emergency kit that includes a first aid kit, flashlight, extra batteries, water bottles, non-perishable snacks, and a portable charger.
-- **Roadside assistance**: Sign up for roadside assistance, in case of any breakdowns or emergencies.
-- **Driver's license and car insurance**: Bring your driver's license and proof of car insurance.
-- **Cash and cards**: Bring enough cash and credit cards for your trip, including some extra cash for emergencies.
-- **Entertainment**: Pack some entertainment options like music, audiobooks, and games for long drives.
-- **Snacks and drinks**: Bring some snacks and drinks for the trip, or plan to make stops at grocery stores or restaurants along the way.
-- **Comfortable clothing**: Dress comfortably for long drives and bring extra layers in case of weather changes.
-- **Sunscreen and bug spray**: Bring sunscreen and bug spray, especially if you plan on spending time outdoors.
-- **Rest stops**: Plan your rest stops, including places to stretch your legs, use the restroom, and eat.
-- **Destination planning**: Plan your destination, including accommodations, activities, and sightseeing options.
-- **Weather check**: Check the weather forecast before you leave, and pack accordingly.
-- **Toll fees**: Check if there are any toll fees on your route, and bring cash or a card to pay.
-- **Travel buddies**: If traveling with friends or family, make sure everyone has their own checklist to ensure nothing is forgotten.
+- [ ] **Vehicle maintenance**: Get your vehicle checked by a mechanic before your trip, including oil change, tire pressure, brakes, and any other necessary maintenance.
+- [ ] **Maps and GPS**: Bring a physical map and a GPS device or make sure you have maps downloaded on your phone.
+- [ ] **Emergency kit**: Pack an emergency kit that includes a first aid kit, flashlight, extra batteries, water bottles, non-perishable snacks, and a portable charger.
+- [ ] **Roadside assistance**: Sign up for roadside assistance, in case of any breakdowns or emergencies.
+- [ ] **Driver's license and car insurance**: Bring your driver's license and proof of car insurance.
+- [ ] **Cash and cards**: Bring enough cash and credit cards for your trip, including some extra cash for emergencies.
+- [ ] **Entertainment**: Pack some entertainment options like music, audiobooks, and games for long drives.
+- [ ] **Snacks and drinks**: Bring some snacks and drinks for the trip, or plan to make stops at grocery stores or restaurants along the way.
+- [ ] **Comfortable clothing**: Dress comfortably for long drives and bring extra layers in case of weather changes.
+- [ ] **Sunscreen and bug spray**: Bring sunscreen and bug spray, especially if you plan on spending time outdoors.
+- [ ] **Rest stops**: Plan your rest stops, including places to stretch your legs, use the restroom, and eat.
+- [ ] **Destination planning**: Plan your destination, including accommodations, activities, and sightseeing options.
+- [ ] **Weather check**: Check the weather forecast before you leave, and pack accordingly.
+- [ ] **Toll fees**: Check if there are any toll fees on your route, and bring cash or a card to pay.
+- [ ] **Travel buddies**: If traveling with friends or family, make sure everyone has their own checklist to ensure nothing is forgotten.
 
 > *Pro Tip:* Remember to always obey traffic laws, wear your seatbelt, and avoid distracted driving. Enjoy the journey and stay safe on the road!
 
-Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip.
+Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip. I'll keep updating this page time and again with my new experiences and destinations. So, be sure to visit again for the latest updates.
 
 
 
