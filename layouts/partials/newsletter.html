@@ -1,0 +1,31 @@
+{{ with .Site.Params.newsletter }}
+  {{ if .enable }}
+  <section class="site-cta" style='background-image: url("{{ .background_image | absURL }}");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">{{ .title }}</h1>
+          <p>{{ .description }}</p>
+          <form id="contact-form" action="{{ .form_id }}" method="post">
+          <ul class="site-cta-buttons">
+            <li>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Enter your Email Here" required>
+            </li>
+            <li>
+              <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                <span class="btn-area">
+                  <span data-text="{{ .primary_button }}">
+                    {{ .primary_button }}
+                  </span>
+                </span>
+              </button>
+            </li>
+          </ul>
+        </form>
+        <p id="contact-form-status"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
