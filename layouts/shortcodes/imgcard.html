@@ -1,0 +1,13 @@
+<!-- accepts title, description, link, img url as parameters, in this order -->
+<a href="{{ .Get 2 }}" >
+    <div class="imgcard">
+        <div class="imgcard-img">
+          <img src="{{ .Get 3 }}">
+        </div>
+        <div class="imgcard-text">
+          <h4>{{ .Get 0 }}</h4>
+          <p>{{ .Get 1 }}</p>
+        </div>
+    </div>
+</a>
+

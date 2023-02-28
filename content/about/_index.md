@@ -13,6 +13,10 @@ content2: "I began to document my travels through photography, capturing the stu
 
 Writing travelogues has become a true passion of mine, and I love nothing more than sitting down at my laptop and bringing my adventures to life on the page. Whether I am exploring the bustling streets of a big city or the quiet beauty of a remote countryside, I am always looking for new stories and experiences to share with my readers.
 
+Related Reading:
+
+{{< imgcard "How I Travelled Solo!" "My Solo Backpacking Experiences in Australia!" "/blog/how-i-travelled-solo/" "/images/oceania/australia/uluru.jpeg" >}}
+
 Through my travels, photography, and writing, I hope to inspire others to pursue their own adventures and discover the beauty of the world around them. Thank you for joining me on this journey and I hope you enjoy reading my travelogues as much as I enjoy writing them. 
 
 I started *CH810YA (pronounced "chai-ten-ya")* with a mission to give others a taste of what goes on in my mind, and I have been at it ever since.

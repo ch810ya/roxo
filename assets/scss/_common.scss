@@ -39,7 +39,7 @@ body {
   border-color: $primary-color;
   font-weight: 300;
   letter-spacing: 1px;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   height: 42px;
   &:focus{
     box-shadow: none;
@@ -71,4 +71,34 @@ select.form-control{
 
 textarea.form-control{
   height: auto;
+}
+
+.imgcard {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  background-color: #e1e2e3;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  overflow: hidden;
+  &-img{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  &-text{
+    font-size: 10px;
+    padding-left: 20px;
+    @include mobile{
+      padding-left: 10px;
+      margin-top: 10px;
+      h4{
+        font-size: 15px;
+      }
+      p{
+        font-size: 10px;
+      }
+    }
+  }
 }

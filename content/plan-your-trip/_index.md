@@ -24,11 +24,15 @@ checklist  :
 ---
 Now that you have chosen a destination you want to visit with the help of my [travel guides](/travel-guides), it is time to start planning your first backpacking trip.
 
+Related Reading:
+
+{{< imgcard "Lombok to Flores - 4 days and 3 nights on a Boat" "with Wanua Adventures 4 days and 3 nights on a Boat" "/indonesia/four-days-lombok-flores/" "/images/asia/indonesia/four-days-lombok-flores.jpeg" >}}
+
 Planning your first backpacking trip can be a stressful experience, especially if you're doing it independently. As someone who has gone through the same experience, I understand the pressure you may be facing, and that's why I'm here to guide you through some steps that I've followed when planning trips around the world.
 
 I have compiled a list of all the resources that I have used over the past 5 years to plan my backpacking trips. These platforms and websites have been incredibly reliable and have never failed me once. I hope that this list will be as helpful to you as it has been to me.
 
-##### Tasks in Series:
+##### Start Planning Your Trip:
 
 1. [Book your Flights](#book-your-flights)
 2. [Book your Accomodation](#book-your-accomodation)
@@ -163,7 +167,9 @@ My recommendation would be Wise Card, an International Debit card that enables t
 
 > *Pro Tip:* Remember to always obey traffic laws, wear your seatbelt, and avoid distracted driving. Enjoy the journey and stay safe on the road!
 
-Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip. I'll keep updating this page time and again with my new experiences and destinations. So, be sure to visit again for the latest updates.
+Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip. 
+
+I'll keep updating this page time and again with my new experiences and destinations. So, be sure to visit again for the latest updates.
 
 
 
