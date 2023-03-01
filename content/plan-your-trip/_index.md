@@ -22,7 +22,7 @@ checklist  :
     text        : Plan Your Trip Guide
 
 ---
-Now that you have chosen a destination you want to visit with the help of my [travel guides](/travel-guides), it is time to start planning your first backpacking trip.
+Now that you have chosen a destination you want to visit with the help of my [travel guides](/travel-guides), it is time to start planning your first or next backpacking trip.
 
 Related Reading:
 
@@ -55,7 +55,7 @@ By using these two platforms together, you can compare prices and routes to find
 
 - {{< openurl "Skyscanner" "https://www.skyscanner.com/" >}}
 - {{< openurl "Expedia" "https://www.expedia.com/" >}}
-- {{< openurl "Skyscanner" "https://www.google.com/travel/flights" >}}
+- {{< openurl "Google Flights" "https://www.google.com/travel/flights" >}}
 
 
 ##### Book Your Accomodation
@@ -63,7 +63,9 @@ By using these two platforms together, you can compare prices and routes to find
 
 With your flight booked, your plan is already halfway done. While the other parts of your trip can be improvised as you go, a little extra research can make your journey more enjoyable, such as finding great accommodation in advance.
 
-For the first night in a new country, I usually look for hostels on Hostelworld. I try to find a place where many travelers pass through, so I can talk to them and get more information about the country I'm visiting. First-hand information is always the best, and there's no better place to find these travelers than a hostel.
+For the first night in a new country, I usually look for hostels on Hostelworld. I try to find a place where many travelers pass through, so I can talk to them and get more information about the country I'm visiting. First-hand information is always the best, and there's no better place to find these travelers than a hostel. Trust me on this. I met my girlfriend in JJ's Backpackers when I was travelling Perth.
+
+<!-- add related reading, link to yuka -->
 
 Hostelworld has an excellent selection of hostels, with many reviews to help you decide whether a particular hostel is right for you. On my first night, I usually choose a smaller, non-party hostel with a fun vibe to meet and talk to people. I've found that a full-blown party hostel can make it difficult to connect with others in meaningful ways.
 
@@ -76,6 +78,9 @@ Booking.com also offers special discounts for returning users, giving you access
 - {{< openurl "Hostel World" "https://www.hostelworld.com/" >}}
 - {{< openurl "Booking.com" "https://www.booking.com/" >}}
 - {{< openurl "AirBnB" "https://www.airbnb.com/" >}}
+
+> For travelling in Australia, you may also check:
+- {{< openurl "YHA" "https://www.yha.com.au/" >}}
 
 > For travelling in Countries like India, Nepal, Indonesia, China, Malaysia and UAE, you may also check:
 - {{< openurl "Oyo Rooms" "https://www.oyorooms.com/" >}}
