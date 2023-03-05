@@ -2,7 +2,7 @@
 title: "Plan your First Trip"
 date: 2018-07-12T18:19:33+06:00
 heading : "ALL YOU EVER NEED TO KNOW IN ONE PLACE"
-description : "TRAVEL PLANNER BY CH810YA - START PLANNING YOUR NEXT ADVENTURE HERE"
+description : "TRAVEL PLANNER BY CHAI - START PLANNING YOUR NEXT ADVENTURE HERE"
 checklist_title: "Travel Checklist Essentials"
 checklist  :
   - link       : /destinations
@@ -14,9 +14,9 @@ checklist  :
   - link       : 
     linkdesc    : 
     text        : Local Currency & Int'l Travel Card (Check out Wise)
-  - link       : /travel-guides/Travel_Planner_ch810ya.xlsx
+  - link       : /travel-guides/Travel_Planner_by_chai.xlsx
     linkdesc    : (Download Here)
-    text        : Travel planner by ch810ya
+    text        : Travel planner by Chai
   - link       : /travel-guides/Plan-Your-First-Trip.pdf
     linkdesc    : (Download as pdf)
     text        : Plan Your Trip Guide
@@ -38,7 +38,7 @@ I have compiled a list of all the resources that I have used over the past 5 yea
 2. [Book your Accomodation](#book-your-accomodation)
 3. [Public Transportation](#public-transportation)
 5. [Day Trips & Tours](#day-trips-&-tours)
-6. [Travel Checklists by ch810ya](#travel-checklists-by-ch810ya)
+6. [Travel Checklists by Chai](#travel-checklists-by-chai)
 
 ##### Book Your Flights
 
@@ -125,7 +125,7 @@ For entrance tickets to expensive attractions, I use Backpacker Deals or Bookme.
 - {{< openurl "Sightseeing Tours Australia" "https://sightseeingtoursaustralia.com.au/" >}}
 
 
-##### Travel Checklists by ch810ya
+##### Travel Checklists by Chai
 
 > ###### Travel Checklist for backpacking to another country:
 
@@ -178,8 +178,4 @@ I'll keep updating this page time and again with my new experiences and destinat
 
 
 
-<!-- ##### Ready with your Travel Checklist and trying to decide where to go?
-- *Visit [Travel Guides](../destinations) for over 100 destinations in Australia or the world.*
-
-- *Download Travel planner by ch810ya [here](https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Ftravel-guides%2FTravel_Planner_ch810ya.xlsx?alt=media&token=e15c7a25-3b59-4605-a827-2380a6e7c594).* -->
 

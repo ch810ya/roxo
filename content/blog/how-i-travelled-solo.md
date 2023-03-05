@@ -1,12 +1,11 @@
 ---
 title: "How I Travelled Solo!"
-date: 2020-01-30T00:00:00+00:00
+subtitle: "My Solo Backpacking Experiences in Australia!"
+date: 2021-01-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
-author: Chaitanya Vuriti
+author: Chai Vuriti
 ---
-#### My Solo Backpacking Experiences in Australia!
-
 Most people asked me the same question when I said I’m going on a SOLO Backpacking Trip across the East Coast of Australia: WHY?
 
 But few others: Awesome!!

@@ -2,7 +2,7 @@ enable  : true
 title   : Team that makes the difference.
 members  :
   - image       : images/team/team-member-one.jpg
-    name        : Chaitanya Vuriti
+    name        : Chai Vuriti
     designation : Creative Director
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/

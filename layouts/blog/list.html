@@ -13,10 +13,18 @@
   </div>
 </section>
 
+{{ partial "books.html" . }}
+
 <section class="site-blog">
   <div class="container">
     <div class="row">
-      {{ range (.Paginator 10).Pages }}
+      <div class="col-12">
+        <div class="section-title">
+          <h2>{{ .Params.blog_heading }}</h2>
+          <p>{{ .Params.blog_sub_heading }}</p>
+        </div>
+      </div>
+      {{ range (.Paginator 100).Pages }}
       <div class="col-lg-6">
         <article class="site-blog-post">
           {{ with .Params.image }}

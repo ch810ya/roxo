@@ -9,7 +9,7 @@ project_images: ["images/projects/project-details-image-one.jpg", "images/projec
 
 Everything You Need To Know
 
-Here is everything you need to know if you are interested in using my free travel photos for your own project or businesses. ch810ya Blog allows the use of my photos in two ways:
+Here is everything you need to know if you are interested in using my free travel photos for your own project or businesses. Chai's Blog allows the use of my photos in two ways:
 
 1. Creative Commons License
 With Creative Commons you are free:
@@ -18,12 +18,12 @@ To Share: Copy, Distribute, and Transmit the image
 To Remix: Create Derivative works of the image
 Under these conditions:
 
-Attribution: Attribution to Chaitanya Vuriti and a link back to BucketListly Blog must be made along with the image.
+Attribution: Attribution to Chai Vuriti and a link back to BucketListly Blog must be made along with the image.
 
 Non-Commercial: The image must not be used for commercial purposes under any circumstances. For clarity on what defines commercial use, please see below the Sample Accepted Uses below.
 Here is an HTML code template for the credit linking back to me if you decided to use the photos.
 
-<a href="https://www.ch810ya.com/" target="_blank">Photos by Chaitanya Vuriti</a>
+<a href="https://www.chaivuriti.com/" target="_blank">Photos by Chai Vuriti</a>
 Sample Accepted Use Of The Creative Commons License:
 
 Blog post about your travel
@@ -34,7 +34,7 @@ An individual using an image as a desktop background
 2. License To Copyright
 ‘Commercial Use’ regarding the use of images online or offline is defined very broadly. The determination of commercial or non-commercial use is based on the contextual use of the image. The determination is NOT based on the tax-filing status of the entity using the image nor on whether or not a financial transaction takes place.
 
-Commercial use of the photos is allowed only if expressly granted by Chaitanya Vuriti. All commercial uses will incur a licensing fee. Our fees are based on the following criteria:
+Commercial use of the photos is allowed only if expressly granted by Chai Vuriti. All commercial uses will incur a licensing fee. Our fees are based on the following criteria:
 
 Media – print, web, television, etc.
 Distribution Size – number of copies printed, viewing audience size, exposure (regional, national, international)
