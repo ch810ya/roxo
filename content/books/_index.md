@@ -20,3 +20,5 @@ My first travelogue “Backpacking the East Coast of Australia” reached **#1**
 *{{< openurl "The Series : How I Travelled Australia (⬈)" "https://www.amazon.com/gp/product/B09511WVYT" >}}*, is not in anyway a Travel guide or just a collection pictures taken randomly at every place. As the name suggests “How I Travelled Australia“, the series of books let the readers experience the Beauty of Travel and the Love of People along my journey of being a Digital Nomad. And my photos show the true beauty of nature and a different perspective to this world.
 
 > *The Series is a Travelogue of my journey in Australia and is a truly personal experience.*
+
+#### Explore All Books: 

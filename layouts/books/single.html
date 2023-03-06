@@ -11,7 +11,35 @@
           <h5>
               {{ .Description }}
           </h5>
-          </br>
+          <br/>
+        </div>
+      </div>
+  
+          <div class="col-md-5">
+            <div class="site-project-single-image">
+              <img style="min-width: 95%;" src="{{ .Params.image }}" alt="">
+            </div>
+          </div>
+          
+          <div class="col-md-6">
+            <div class="site-expertise-list">
+              <p>{{ .Params.Content_small }}</p>
+            </div>
+            </br>
+            <a href="{{ .Params.button_url | absURL }}" target="_blank" class="btn btn-primary" style="margin-left: 15px;">
+              <span class="btn-area">
+                <span data-text="{{ .Params.button }}">
+                  {{ .Params.button }}
+                </span>
+              </span>
+            </a>
+            <div class="site-expertise-list">
+            </br>
+              <p>{{ .Content }}</p>
+            </div>
+          </div>
+
+<!--           </br>
           <div class="site-project-single-description">
             {{ .Content }}
           </div>
@@ -31,12 +59,52 @@
               <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
             </a>
           </div>
-          {{ end }}
-        </div>
+          {{ end }} -->
+
+          <div class="site-project-single-action">
+            <a href="/books/#explore-all-books">
+              <span class="link-area">
+                <span data-text="More Books">
+                  More books
+                </span>
+              </span>
+              <img src="{{ "images/to-top.svg" | absURL }}" alt="More Books">
+            </a>
+          </div>
+
       </div>
     </div>
   </div>
 </section>
+
+<!--  <section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      
+     <div class="col-md-5">
+        <div class="site-project-single-image">
+          <img src="{{ .Params.image }}" alt="">
+        </div>
+      </div>
+      
+      <div class="col-md-6">
+        <div class="site-expertise-list">
+          <p>{{ .Content }}</p>
+        </div>
+      </div> 
+    
+     <div class="col-lg-8 mx-auto">
+        <div class="site-project-single">
+          <div class="site-project-single-description">
+          </br>
+            {{ .Content }}
+          </div>
+        </div>
+      </div> 
+
+    </div>
+  </div>
+</section> -->
 
 {{ partial "plan-your-trip-button.html" . }}
 

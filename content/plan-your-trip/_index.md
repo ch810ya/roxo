@@ -71,7 +71,7 @@ For the first night in a new country, I usually look for hostels on Hostelworld.
 -----
 Related Reading:
 
-{{< imgcard "Yuka" "A Beautiful Episode of How I Travelled Australia" "/books/yuka/" "/images/square/yuka-square.jpg" >}}
+{{< imgcard "Yuka" "A Beautiful Episode of How I Travelled Australia" "/books/yuka/" "/images/books/yuka.jpg" >}}
 
 -----
 
