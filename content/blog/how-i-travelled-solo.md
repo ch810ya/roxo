@@ -5,6 +5,7 @@ date: 2021-01-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 Most people asked me the same question when I said I’m going on a SOLO Backpacking Trip across the East Coast of Australia: WHY?
 

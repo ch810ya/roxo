@@ -5,6 +5,7 @@ date: 2020-09-01T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 We reached the Saltwater Campground just before the sunset but by the time we set our camp, it’s already dark. 
 

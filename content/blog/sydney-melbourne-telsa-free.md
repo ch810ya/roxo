@@ -5,6 +5,7 @@ date: 2020-06-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 When I say Free I would like to point out that I made the trip on a Tesla Model 3 so I’m only considering the cost of travel and not the car. 
 

@@ -5,6 +5,7 @@ date: 2019-12-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 The shuttle services would not start before 9 AM and my Great Barrier Reef tour was at 8:30, I started to take the same route as the previous night walking along the Esplanade with so many beautiful views in sight.
 

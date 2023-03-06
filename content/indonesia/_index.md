@@ -1,14 +1,14 @@
 ---
 title: "<span>INDONESIA</span>"
-description : "With over 12,000 islands, all with their own different culture and traditions, it will take years for you to explore Indonesia and see it all. From active volcanoes to rice fields, from Islamic architecture of Java to the Hindu culture of Bali, from the Komodo Dragons of Flores to the off the beaten path island of Karimunjawa, prepare yourself for the explosive experience of food and culture in Indonesia."
+description : "With over 12,000 islands, all with their own different culture and traditions, it will take years for you to explore Indonesia and see it all."
 date: 2019-12-23T16:48:28+06:00
 ---
 <!-- description about the country - continued -->
-
+From active volcanoes to rice fields, from Islamic architecture of Java to the Hindu culture of Bali, from the Komodo Dragons of Flores to the off the beaten path island of Karimunjawa, prepare yourself for the explosive experience of food and culture in Indonesia.
 
 <!-- top 5 things to do -->
-> Top 5 things to do in Indonesia:
-- Bali
+> Top 5 things to do in Indonesia if you're flying to Bali:
+- Nusa Penida
 - Ubud Rice Fields
 - Mount Rinjani
 - Gili
@@ -23,7 +23,7 @@ date: 2019-12-23T16:48:28+06:00
 <!-- add budget details -->
  > Currency In Indonesia:
 - IDR
-(1 AUD = 10,000 IDR Approx, at the time of this trip)
+(1 AUD = 10,000 IDR Approx)
 
  > Budget for 2 Weeks for 2 Persons:
 - 2 Million IDR
@@ -34,6 +34,18 @@ date: 2019-12-23T16:48:28+06:00
 - Sewa Motor (Scooter rental): 80,000 IDR
 - Food (at Warung): 150,000 IDR PP
 - Bottled Water: 20,000 IDR
+
+> Important links for travellers:
+
+> Rideshare:
+- {{< openurl "Gojek (⬈)" "https://gojek.page.link/referral" >}}
+- {{< openurl "Grab (⬈)" "https://r.grab.com/r/wdaa93jztra" >}}
+
+> To Book any tickets (flights, buses, trains, events, hotels, car rentals & more):
+- {{< openurl "Traveloka (⬈)" "https://www.traveloka.com/" >}}
+- {{< openurl "Tiket.com (⬈)" "https://m.tiket.com/referral-page?referralToken=WIDTA87272&lang=id" >}}
+
+
 
 <!-- start of partials, add in list.html -->
 

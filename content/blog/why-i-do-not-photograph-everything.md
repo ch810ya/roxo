@@ -5,6 +5,7 @@ date: 2020-01-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 *Photography* has always been a great interest of mine. Since childhood, I evolved taking photographs on different devices at different places and raised a particular interest in wildlife photography. The composition is the most important aspect in a photo followed by the perspective. There can be 100 photographers taking a picture of a particular place but only a few could capture it from a fresh perspective. In short, there are 2 types of people. 
  

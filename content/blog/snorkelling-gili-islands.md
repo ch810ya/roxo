@@ -5,6 +5,7 @@ date: 2022-09-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 Gili Island is known for its crystal clear waters and abundant sea life. You can expect to spot sea turtles, lionfish, eels, rays, and lots of other amazing aquatic animals. 
 

@@ -5,6 +5,7 @@ date: 2022-05-10T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 I had always dreamed of exploring the iconic landmarks of the Australian outback, and so I decided to embark on a three-day road trip from Alice Springs to Kata Tjuta, Uluru, and Kings Canyon. 
 

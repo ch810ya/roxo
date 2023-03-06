@@ -5,6 +5,7 @@ date: 2021-01-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 It was December 2019 and a start point for so many disasters. Bushfires in Australia were raging and had done a lot of damage to nature and livelihood already. 
 

@@ -5,6 +5,7 @@ date: 2020-08-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 We reached Port Stephens at 9 AM but our Sand-boarding slot is at 10 AM, so we have an hour to check out the places in the area. 
 

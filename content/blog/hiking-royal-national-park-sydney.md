@@ -5,6 +5,7 @@ date: 2019-06-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 My roommate and I started from home to Cronulla early in the morning to catch a ferry to Bundeena, the start point of the trek. 
 

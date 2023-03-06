@@ -1,12 +1,19 @@
 ---
 title: "<span>AUSTRALIA</span>"
-description : "sample description 2 lines"
+description : "Australia is a dream destination for many travelers, offering a diverse range of experiences and attractions."
 date: 2019-12-23T16:48:28+06:00
 ---
 <!-- description about the country - continued -->
+From the vibrant cities and stunning beaches of the east coast to the rugged wilderness and ancient cultural sites of the west, there is something for everyone in this vast and beautiful country. The people of Australia are known for their laid-back and friendly nature, and are always eager to welcome visitors to their shores. The country is also home to an incredible array of flora and fauna, including many species that are found nowhere else on earth. Whether you are seeking adventure, relaxation, or cultural exploration, Australia has something to offer for every traveler.
 
 <!-- top 5 things to do -->
-> Top 5 things to do in X
+> Top 5 things to do in AUSTRALIA:
+
+- Great Barrier Reef, Queensland
+- Uluru, Northern Territory
+- Kangaroo Island, South Australia
+- Great Ocean Road, Victoria
+- Freycinet National Park, Tasmania
 
 <!-- links to 2 guides -->
 > Here's the most popular itineraries
@@ -16,38 +23,31 @@ date: 2019-12-23T16:48:28+06:00
 
 <!-- add budget details -->
 > Currency (in the country)
-- X$
+- AUD (A$)
 
->Budget (for x days):
-- X$
+>Budget (for 14 days):
+- 3000 A$
 
 > Average Basic Expenses per day:
-- Hotel: X$
-- Transport: X$
-- Food: X$
+- Hotel: 30 A$
+- Transport: 15 A$
+- Food: 30 A$
 
 <!-- start of partials, add in list.html -->
 
 <!-- link to plan your trip -->
-add link to plan your trip (partials)
 
 <!-- link to more guides -->
-add guides under the country (partials)
 
 <!-- link to affiliates -->
-add affiliate link (partials)
 
 <!-- tips and tricks -->
-add tips and tricks (partials)
 
 <!-- link to more blog posts -->
-add link to more blog posts (partials)
 
 <!-- link to popular guides -->
-add link to popular destinations (partials)
 
 <!-- link to more topics -->
-add link to other topics (partials)
 
 <!-- end of partials, add in single.html -->
 

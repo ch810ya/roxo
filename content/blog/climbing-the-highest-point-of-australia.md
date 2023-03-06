@@ -5,6 +5,7 @@ date: 2021-05-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 My new roommate, Vinny and I started from Sydney early in the morning only to reach Canberra and then spend like 3 hours shopping in the city. 
 

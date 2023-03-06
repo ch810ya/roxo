@@ -5,6 +5,7 @@ date: 2020-12-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 There are not many destinations left from Hobart that I could do and I have already booked the Maria Island shuttle for tomorrow as Masami has been continuously telling me how great it is. 
 

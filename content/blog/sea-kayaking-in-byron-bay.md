@@ -5,6 +5,7 @@ date: 2020-10-30T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 This is the first time I’m going Kayaking. Although I did go river rafting back in India, Kayaking is a bit different. 
 

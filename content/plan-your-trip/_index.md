@@ -24,9 +24,12 @@ checklist  :
 ---
 Now that you have chosen a destination you want to visit with the help of my [travel guides](/travel-guides), it is time to start planning your first or next backpacking trip.
 
+----
 Related Reading:
 
 {{< imgcard "Lombok to Flores - 4 days and 3 nights on a Boat" "with Wanua Adventures 4 days and 3 nights on a Boat" "/indonesia/four-days-lombok-flores/" "/images/asia/indonesia/four-days-lombok-flores.jpeg" >}}
+
+-----
 
 Planning your first backpacking trip can be a stressful experience, especially if you're doing it independently. As someone who has gone through the same experience, I understand the pressure you may be facing, and that's why I'm here to guide you through some steps that I've followed when planning trips around the world.
 
@@ -65,7 +68,12 @@ With your flight booked, your plan is already halfway done. While the other part
 
 For the first night in a new country, I usually look for hostels on Hostelworld. I try to find a place where many travelers pass through, so I can talk to them and get more information about the country I'm visiting. First-hand information is always the best, and there's no better place to find these travelers than a hostel. Trust me on this. I met my girlfriend in JJ's Backpackers when I was travelling Perth.
 
-<!-- add related reading, link to yuka -->
+-----
+Related Reading:
+
+{{< imgcard "Yuka" "A Beautiful Episode of How I Travelled Australia" "/books/yuka/" "/images/square/yuka-square.jpg" >}}
+
+-----
 
 Hostelworld has an excellent selection of hostels, with many reviews to help you decide whether a particular hostel is right for you. On my first night, I usually choose a smaller, non-party hostel with a fun vibe to meet and talk to people. I've found that a full-blown party hostel can make it difficult to connect with others in meaningful ways.
 

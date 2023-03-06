@@ -5,6 +5,7 @@ date: 2020-09-01T00:00:00+00:00
 image: /images/oceania/australia/uluru.jpeg
 feature_image: /images/oceania/australia/uluru.jpeg
 author: Chai Vuriti
+draft: true
 ---
 Even though just a 3-hour drive away from Sydney, I was never interested in visiting Canberra. 
 
