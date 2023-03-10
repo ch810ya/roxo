@@ -40,8 +40,9 @@ I have compiled a list of all the resources that I have used over the past 5 yea
 1. [Book your Flights](#book-your-flights)
 2. [Book your Accomodation](#book-your-accomodation)
 3. [Public Transportation](#public-transportation)
-5. [Day Trips & Tours](#day-trips-&-tours)
-6. [Travel Checklists by Chai](#travel-checklists-by-chai)
+4. [Day Trips & Tours](#day-trips-&-tours)
+5. [Travel Checklists by Chai](#travel-checklists-by-chai)
+6. [More Resources](#more-resources)
 
 ##### Book Your Flights
 
@@ -179,6 +180,21 @@ My recommendation would be Wise Card, an International Debit card that enables t
 - [ ] **Travel buddies**: If traveling with friends or family, make sure everyone has their own checklist to ensure nothing is forgotten.
 
 > *Pro Tip:* Remember to always obey traffic laws, wear your seatbelt, and avoid distracted driving. Enjoy the journey and stay safe on the road!
+
+##### More Resources
+
+These are the other multiple apps/websites that I use while travelling:
+
+> Apps to track your trip:
+- {{< openurl "Polar Steps" "https://www.polarsteps.com/ch810ya" >}}
+
+> Apps for Campsites information:
+- {{< openurl "Aircamp" "https://www.aircamp.com.au/cam" >}}
+- {{< openurl "Campermate" "https://campermate.com/hik" >}}
+
+> Apps for Hiking maps
+- {{< openurl "AllTrails" "https://www.alltrails.com/" >}}
+
 
 Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip. 
 

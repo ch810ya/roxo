@@ -1,0 +1,31 @@
+{{ with .Site.Data.photos }}
+  {{ if .enable }}
+  <section class="site-photos">
+    <div class="container">
+      <div class="row">
+<!--         <div class="col-12">
+          <div class="section-title">
+            <h2>
+              {{ .title }}
+            </h2>
+          </div>
+        </div> -->
+        {{ range .photos }}
+        <div class="col-lg-4 col-md-6">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="team-member">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="" download="{{ .imageurl | absURL }}"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

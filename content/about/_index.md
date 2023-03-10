@@ -21,5 +21,3 @@ Through my travels, photography, and writing, I hope to inspire others to pursue
 
 I started this blog with a mission to give others a taste of what goes on in my mind, and I have been at it ever since.
 
-Read my article on "How I Travelled Solo!" [here](/blog/how-i-travelled-solo/)
-
