@@ -17,21 +17,20 @@ From the vibrant cities and stunning beaches of the east coast to the rugged wil
 
 <!-- links to 2 guides -->
 > Here's the most popular itineraries
-- [itinerary1](\itinerary1)
-- [itinerary2](\itinerary2)
+- [Perth to Margaret River in 2 Days ](/australia/perth-to-margaret-river/)
 
 
 <!-- add budget details -->
 > Currency (in the country)
-- AUD (A$)
+- AUD (AUD)
 
 >Budget (for 14 days):
-- 3000 A$
+- 3000 AUD
 
 > Average Basic Expenses per day:
-- Hotel: 30 A$
-- Transport: 15 A$
-- Food: 30 A$
+- Hotel: 30 AUD
+- Transport: 15 AUD
+- Food: 30 AUD
 
 <!-- start of partials, add in list.html -->
 
