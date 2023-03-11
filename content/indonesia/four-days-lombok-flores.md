@@ -102,6 +102,6 @@ We were taken to another Pink beach on Padar Island but people started flocking 
 We reached the Port of Labuan Bajo around 4 PM.
 After bidding good-byes to our fellow travellers, we walked to our AirBnB,
 freshed-up and wandered on the streets of the beautiful and quite an
-interesting town
+interesting town.
 
 <!-- Back to *[Damn! I Love Indonesia](../damn-i-love-indonesia)* -->

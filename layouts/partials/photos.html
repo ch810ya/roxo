@@ -10,11 +10,23 @@
             </h2>
           </div>
         </div> -->
-        {{ range .photos }}
-        <div class="col-lg-4 col-md-6">
+        <div class="site-photos-member-content">
+        <ul class="site-photos-member-social">
+          <li><a href="#indonesia"><i>Indonesia</i></a></li>
+          <li><a href="#queensland"><i>Queensland</i></a></li>
+          <li><a href="#new-south-wales"><i>New South Wales</i></a></li>
+          <li><a href="#victoria"><i>Victoria</i></a></li>
+          <li><a href="#tasmania"><i>Tasmania</i></a></li>
+          <li><a href="#south-australia"><i>South Australia</i></a></li>
+          <li><a href="#northern-territory"><i>Northern Territory</i></a></li>
+          <li><a href="#western-australia"><i>Western Australia</i></a></li>
+        </ul>
+      </div>
+        {{ range .indonesia }}
+        <div class="col-lg-4 col-md-6" id="indonesia">
           <div class="site-photos-member">
             <div class="site-project-item-thumb">
-              <img src="{{ .imageurl | absURL }}" alt="team-member">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
             </div>
             <div class="site-photos-member-content">
               <ul class="site-photos-member-social">
@@ -24,6 +36,112 @@
           </div>
         </div>
         {{ end }}
+
+        {{ range .queensland }}
+        <div class="col-lg-4 col-md-6" id="queensland">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        {{ range .new_south_wales }}
+        <div class="col-lg-4 col-md-6" id="new-south-wales">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        {{ range .victoria }}
+        <div class="col-lg-4 col-md-6" id="victoria">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        {{ range .tasmania }}
+        <div class="col-lg-4 col-md-6" id="tasmania">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        {{ range .south_australia }}
+        <div class="col-lg-4 col-md-6" id="south-australia">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+
+        {{ range .northern_territory }}
+        <div class="col-lg-4 col-md-6" id="northern-territory">
+          <div class="site-photos-member">
+            <div class="site-project-item-thumb">
+              <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+            </div>
+            <div class="site-photos-member-content">
+              <ul class="site-photos-member-social">
+                <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+     
+        {{ range .western_australia }}
+          <div class="col-lg-4 col-md-6" id="western-australia">
+            <div class="site-photos-member">
+              <div class="site-project-item-thumb">
+                <img src="{{ .imageurl | absURL }}" alt="photo" loading="lazy">
+              </div>
+              <div class="site-photos-member-content">
+                <ul class="site-photos-member-social">
+                  <li><a href="{{ .imageurl | absURL }}" target="_blank"><i class="fa fa-download"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+
       </div>
     </div>
   </section>
