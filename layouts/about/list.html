@@ -42,10 +42,11 @@
           <div class="site-project-single-description">
           </br>
             {{ .Content }}
+            <img src="{{ "images/end.svg" | absURL }}" alt="End">
           </div>
         </div>
-      </div>
 
+      </div>
     </div>
   </div>
 </section>
@@ -69,6 +70,36 @@
     </div>
   </div>
 </section> -->
+
+<section class="site-cta" style='background-image: url("/images/backgrounds/cta-background.jpg");'>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="site-cta-title">Want to Get in Touch?</h1>
+        <ul class="site-cta-buttons">
+          <li>
+            <a href="/contact" class="btn btn-secondary">
+              <span class="btn-area">
+                <span data-text="Contact Us">
+                  Contact Us
+                </span>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="/about/why-subscribe" class="btn btn-primary">
+              <span class="btn-area">
+                <span data-text="Why Subscribe?">
+                  Why Subscribe?
+                </span>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 
 {{ partial "popular-destinations.html" . }}
 

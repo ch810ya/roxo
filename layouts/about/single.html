@@ -8,15 +8,18 @@
           <h1>
             {{ .Title }}
           </h1>
-          <h5>
+          <p>
             {{ .Description }}
-          </h5>
-          </br>
+          </p>
+          {{ partial "newsletter-why.html" . }}
           <div class="site-project-single-description">
             {{ .Content }}
-            <img src="{{ "images/end.svg" | absURL }}" alt="End">
           </div>
-
+          <div class="site-project-single-image">
+            {{ range .Params.project_images }}
+            <img src="{{ . | absURL }}" alt="project image">
+            {{ end }}
+          </div>
           {{ if .NextInSection }}
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
@@ -35,12 +38,6 @@
   </div>
 </section>
 
-{{ partial "plan-your-trip-button.html" . }}
 
-{{ partial "popular-destinations.html" . }}
-
-{{ partial "blog.html" . }}
-
-{{ partial "newsletter.html" . }}
 
 {{ end }}

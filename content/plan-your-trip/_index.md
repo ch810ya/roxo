@@ -27,7 +27,7 @@ Now that you have chosen a destination you want to visit with the help of my [tr
 ----
 Related Reading:
 
-{{< imgcard "Lombok to Flores - 4 days and 3 nights on a Boat" "with Wanua Adventures 4 days and 3 nights on a Boat" "/indonesia/four-days-lombok-flores/" "/images/asia/indonesia/four-days-lombok-flores.jpeg" >}}
+{{< imgcard "Lombok to Flores - 4 days and 3 nights on a Boat" "Lombok – Kenawa Island - Whale Shark Point - Komodo Island - Pink Beach - Padar Island - Labuan Bajo" "/indonesia/four-days-lombok-flores/" "/images/asia/indonesia/four-days-lombok-flores.jpeg" >}}
 
 -----
 
@@ -40,12 +40,12 @@ I have compiled a list of all the resources that I have used over the past 5 yea
 1. [Book your Flights](#book-your-flights)
 2. [Book your Accomodation](#book-your-accomodation)
 3. [Public Transportation](#public-transportation)
-4. [Day Trips & Tours](#day-trips-&-tours)
+4. [Day Trips and Tours](#day-trips-and-tours)
 5. [Travel Checklists by Chai](#travel-checklists-by-chai)
 6. [More Resources](#more-resources)
 
-##### Book Your Flights
-
+{{< figure src="/images/divider.svg" >}}
+1. #### Book Your Flights
 
 To plan a backpacking trip, the first step is to find the best deals on flights from your home country to your desired destination. My preferred platform for this is Skyscanner, where you can browse through available deals and sort them by price and flight duration to find the most affordable and practical route.
 
@@ -61,9 +61,9 @@ By using these two platforms together, you can compare prices and routes to find
 - {{< openurl "Expedia" "https://www.expedia.com/" >}}
 - {{< openurl "Google Flights" "https://www.google.com/travel/flights" >}}
 
+{{< figure src="/images/divider.svg" >}}
 
-##### Book Your Accomodation
-
+2. #### Book Your Accomodation
 
 With your flight booked, your plan is already halfway done. While the other parts of your trip can be improvised as you go, a little extra research can make your journey more enjoyable, such as finding great accommodation in advance.
 
@@ -94,8 +94,9 @@ Booking.com also offers special discounts for returning users, giving you access
 > For travelling in Countries like India, Nepal, Indonesia, China, Malaysia and UAE, you may also check:
 - {{< openurl "Oyo Rooms" "https://www.oyorooms.com/" >}}
 
-##### Public Transportation
+{{< figure src="/images/divider.svg" >}}
 
+3. #### Public Transportation
 
 At times, it can be challenging to find information about navigating other countries. Therefore, my usual approach is to search for state transportation websites to learn about public transportation options such as intercity and metro services. This enables me to get an overview of the availability of buses or trains that I may need to take, and I can then proceed to make my bookings accordingly.
 
@@ -107,8 +108,9 @@ For Travelling around Australia without a car, visit Greyhound Australia Website
 
 - {{< openurl "Greyhound Australia Whimmit Passes" "https://www.greyhound.com.au/national-whimit-passes" >}}
 
-##### Day Trips & Tours
+{{< figure src="/images/divider.svg" >}}
 
+4. #### Day Trips and Tours
 
 Upon arriving in a new city, I often seek out day trips or tours to join with other travelers. As a solo adventurer, this is the best way to explore places that may be too costly to visit alone.
 
@@ -133,10 +135,13 @@ For entrance tickets to expensive attractions, I use Backpacker Deals or Bookme.
 - {{< openurl "Lost in Australia" "https://lostinaustralia.org/" >}}
 - {{< openurl "Sightseeing Tours Australia" "https://sightseeingtoursaustralia.com.au/" >}}
 
+{{< figure src="/images/divider.svg" >}}
 
-##### Travel Checklists by Chai
+5. #### Travel Checklists by Chai
+  
+I've prepared some travel checklists depending on the type of travel. Here's the most important and common items you need during your backpacking and roadtrips.
 
-> ###### Travel Checklist for backpacking to another country:
+  1. ###### Travel Checklist for backpacking to another country:
 
 - [ ] **Passport**: Make sure your passport is valid and has at least six months left before it expires.
 - [ ] **Visa**: Check if you need a visa to enter the country you're visiting and apply for it in advance if necessary.
@@ -161,7 +166,7 @@ My recommendation would be Wise Card, an International Debit card that enables t
 
 > *Pro Tip:*  Remember to also notify your bank and any credit card companies you're using that you will be traveling abroad, to avoid any issues with your card being blocked. Additionally, consider purchasing a portable power bank and a small lock for your backpack.
 
-> ###### Travel Checklist for Road Trips:
+  2. ###### Travel Checklist for Road Trips:
 
 - [ ] **Vehicle maintenance**: Get your vehicle checked by a mechanic before your trip, including oil change, tire pressure, brakes, and any other necessary maintenance.
 - [ ] **Maps and GPS**: Bring a physical map and a GPS device or make sure you have maps downloaded on your phone.
@@ -181,7 +186,9 @@ My recommendation would be Wise Card, an International Debit card that enables t
 
 > *Pro Tip:* Remember to always obey traffic laws, wear your seatbelt, and avoid distracted driving. Enjoy the journey and stay safe on the road!
 
-##### More Resources
+{{< figure src="/images/divider.svg" >}}
+
+6. #### More Resources
 
 These are the other multiple apps/websites that I use while travelling:
 
@@ -199,7 +206,3 @@ These are the other multiple apps/websites that I use while travelling:
 Well, that's everything you need to know about planning a trip. With your plans complete and your gear prepared, just start travelling. I hope you will find my Travel Planner useful for planning your first or next backpacking trip. 
 
 I'll keep updating this page time and again with my new experiences and destinations. So, be sure to visit again for the latest updates.
-
-
-
-

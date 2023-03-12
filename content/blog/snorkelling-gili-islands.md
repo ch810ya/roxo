@@ -21,5 +21,3 @@ No one was really answering so i yelled “we had enough turtles for the month. 
 
 I think this is the best spot for the whole day watching the coral reefs and the school of different kinds of fishes. 
 
-Back to *[Damn! I Love Indonesia](../damn-i-love-indonesia)*
-

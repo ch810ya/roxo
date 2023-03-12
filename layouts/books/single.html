@@ -38,11 +38,8 @@
               <p>{{ .Content }}</p>
             </div>
           </div>
-
 <!--           </br>
-          <div class="site-project-single-description">
-            {{ .Content }}
-          </div>
+
           <div class="site-project-single-image">
             {{ range .Params.project_images }}
             <img src="{{ . | absURL }}" alt="project image">
@@ -60,7 +57,10 @@
             </a>
           </div>
           {{ end }} -->
-
+        <div class="col-lg-8 mx-auto site-project-single">
+          <div class="site-project-single-description">
+            <img src="{{ "images/end.svg" | absURL }}" alt="End">
+</div>
           <div class="site-project-single-action">
             <a href="/books/#explore-all-books">
               <span class="link-area">
@@ -71,7 +71,7 @@
               <img src="{{ "images/to-top.svg" | absURL }}" alt="More Books">
             </a>
           </div>
-
+        </div>
       </div>
     </div>
   </div>

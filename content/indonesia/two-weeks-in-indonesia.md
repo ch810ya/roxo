@@ -1,10 +1,20 @@
 ---
-title: "Two Weeks in Indonesia"
-description: "Top 10 things to Do in Bali"
+title: "Two Weeks in Bali, West Nusa Tenggara and East Nusa Tenggara"
+description: "Top 10 things to Do in Bali - Ubud - Nusa Penida - Gili - Komodo National Park"
 date: 2022-08-28T00:00:00+00:00
 image: "/images/asia/indonesia/two-weeks-in-indonesia.jpeg"
 category: ["Popular","Asia"]
 ---
+1. [Mount Batur & Kintamani](#mount-batur--kintamani)
+2. [Kelingking Beach](#kelingking-beach)
+3. [Gili](#gili)
+4. [Komodo National Park](#komodo-national-park)
+5. [Tegalalang Rice Terraces](#tegalalang-rice-terraces)
+6. [Diamond Beach](#diamond-beach)
+7. []()
+8. []()
+9. []()
+10. []()
 
  > Currency In Indonesia:
 - IDR
@@ -99,7 +109,7 @@ Located on the upper terrain of Bali, Ubud has long been known as the cultural c
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fsarastemple.jpeg?alt=media&token=f7732e8c-d792-4185-9d22-ccf273b11f5e" caption="Saraswati Temple" >}}
 
 
- > Mount Batur & Kintamani
+###### Mount Batur & Kintamani
 
 Mount Batur is an active volcano in Batur Village in the northern region of Bali.
 
@@ -107,7 +117,7 @@ Mount Batur is an active volcano in Batur Village in the northern region of Bali
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fpura-segara-2.jpeg?alt=media&token=a6eae47f-82e2-41a9-8f3f-8cef6864ab57"  >}}
 
- > Pura Besakih
+###### Pura Besakih
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fpura-segara-3.jpeg?alt=media&token=258f1551-94b1-4887-a825-e7f5d12d3ea0" caption="Pura Besakih" >}}
 
@@ -117,7 +127,7 @@ Mount Batur is an active volcano in Batur Village in the northern region of Bali
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fpura-segara-6.jpeg?alt=media&token=873d6a64-1bdc-4e1d-9bde-fda034aaa29d"  >}}
 
- > Tegalalang Rice Terraces
+###### Tegalalang Rice Terraces
 
 These famous rice terraces in Tegalalang are an iconic part of the Balinese landscape. There are rice fields located all over
 Bali Island, but Tegalalang is known for being one of the most beautiful.
@@ -125,7 +135,7 @@ The town of Tegalalang is super cute, with arts and craft market stalls lining t
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fricefields.jpeg?alt=media&token=c4dcfb42-58a7-4c96-b6d0-eeb30d833b70" caption="Tegalalang Rice Terraces" >}}
 
- > Sumampan waterfall
+###### Sumampan waterfall
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fsamp.jpeg?alt=media&token=a894a747-01cf-4a79-8899-5184b6b0fa47" caption="Sumampan waterfall" >}}
 
@@ -163,13 +173,13 @@ Due to the road conditions on the island, it would be extremely difficult to vis
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fnusa.jpeg?alt=media&token=b51bcca5-848a-4308-9997-c2c217d2e7b5"  >}}
 
 
- > Diamond Beach
+###### Diamond Beach
 
 Diamond Beach is an untouched, white-sand, and silky blue water bay on the eastern tip of Nusa Penida. A stunning white beach, silky blue water, limestones, and palm trees are creating a dream destination. 
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fdiamondbeach.jpeg?alt=media&token=6779be88-136d-447c-b452-157376f652ab" caption="Diamond Beach" >}}
 
- > Kelingking Beach
+###### Kelingking Beach
 
 The most famous and popular place in Nusa Penida, you've definitely seen a photo of Kelingking Beach before.
 If driving from East to the West side of the island is an adventure, count the climbing down and back up this super steep hill as the ultimate adventure. It took us about an hour to go down and you would think it should take about 2 hours to climb up. But surprisingly it was comparatively easy to climb up the hill. And, only took us about 30 minutes. 
@@ -178,14 +188,14 @@ If driving from East to the West side of the island is an adventure, count the c
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fkelingking1.jpeg?alt=media&token=79dc9099-387f-4c43-91f8-bfa74af2077d"  >}}
 
- > Broken Beach
+###### Broken Beach
 
 Sitting right next to Angels Billabong, Broken Beach is just stunning. This little circular walk is known for its views of the arched tunnels in the cliffs and the beautiful little pool that sits in the middle.
 The walk around the beach is relatively flat and easy and definitely worth it if you're visiting the area. There are lots of points along the way that offer stunning views of both the beach itself, as well as the rugged coastline of the island.
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Fbroken-beach.jpeg?alt=media&token=739db64a-b4e0-4c5b-acfc-c48e3f1dc761" caption="Broken Beach" >}}
 
- > Angels Billabong
+###### Angels Billabong
 
 A beautiful natural rock pool that opens up straight into the ocean, Angels Billabong is stunning but quite dangerous.
 This natural infinity pool offers some super clear and beautiful water, and you're able to swim throughout the lagoon if you would like.
@@ -239,11 +249,12 @@ Overall, the Gili Islands offer a perfect blend of relaxation and adventure, mak
 
 ##### Komodo National Park
 
-<!-- {{< figure src="/images/posts/four-days-lombok-flores/pad.jpeg" caption="The Iconic Padar Island" >}} -->
+-----
+Related Reading:
 
+{{< imgcard "Lombok to Flores - 4 days and 3 nights on a Boat" "Lombok – Kenawa Island - Whale Shark Point - Komodo Island - Pink Beach - Padar Island - Labuan Bajo" "/indonesia/four-days-lombok-flores/" "/images/asia/indonesia/four-days-lombok-flores.jpeg" >}}
 
-
-
+-----
 
 ##### Labuan Bajo:
 
@@ -270,6 +281,7 @@ the places that we've been to, for the past 2 weeks. We flew
 back to Bali, the next day, to catch our flight to Sydney.
 
 {{< figure src="https://firebasestorage.googleapis.com/v0/b/ch810ya-v.appspot.com/o/roxo%2Fimages%2Fdestinations%2Fasia%2Findonesia%2Fdamn-i-love-indonesia%2Flabuanbajo.jpg?alt=media&token=fb18d0dc-9bcd-40b7-857a-04a6a7adf5bd" caption="Labuan Bajo Harbour" >}}
+
 
 
 [Back to Indonesia](../)

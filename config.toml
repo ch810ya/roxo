@@ -44,16 +44,19 @@ summarylength = 5
     placeholder_first_name        = "First Name"
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    placeholder_project_type      = "Enquiry Type"
+    placeholder_about_the_project = "Message"
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
+      value = "guides"
+      title  = "Travel Guides"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
+      value = "photos"
+      title  = "Hi-Res Photos"
+    [[params.contactForm.projectType]]
+      value = "work"
+      title  = "Work With Me"
   
   # Navbar Action Button
   [params.navAction]
@@ -117,8 +120,6 @@ summarylength = 5
 #    title               = "Newsletter Sign Up"
 #    description         = "Join our community with over 2,500+ readers to get latest travel news, updates, and great travel stories from around the world."
 #    primary_button      = "Subscribe"
-#    form_id             = "https://formspree.io/f/mrgvkpez"
-#    mailerlite_formid   = "https://assets.mailerlite.com/jsonp/345946/forms/81367584283297740/subscribe"
 
   [params.books]
     enable    = true
@@ -134,25 +135,31 @@ summarylength = 5
         title   = "Start here ↓"
         [[params.footer.sitemap.link]]
           name = "Plan your first Trip"
-          url  = "plan-your-trip"
+          url  = "/plan-your-trip"
         [[params.footer.sitemap.link]]
           name = "Get Inspired"
-          url  = "blog"
+          url  = "/blog"
         [[params.footer.sitemap.link]]
           name = "Travel Guides"
-          url  = "travel-guides"
+          url  = "/travel-guides"
         [[params.footer.sitemap.link]]
+          name = "Free Travel Photos"
+          url  = "/photography" 
+      # Footer Other Links
+      [params.footer.other]
+        title   = "More Shortcuts ↓"
+        [[params.footer.other.link]]
           name = "All About Australia"
-          url  = "australia"
-        [[params.footer.sitemap.link]]
-          name = "All About Me"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Photography"
-          url  = "photography" 
+          url  = "/australia"
+        [[params.footer.other.link]]
+          name = "How I Travelled Series"
+          url  = "/books"
+        [[params.footer.other.link]]
+          name = "All Destinations"
+          url  = "/destinations"
       # Footer Other Channels
       [params.footer.social]
-        title   = "Other Channels"
+        title   = "More Channels ↓"
         [[params.footer.social.link]]
           name = "Medium"
           url  = "https://medium.com/@ch810ya"
@@ -167,10 +174,17 @@ summarylength = 5
           url  = "https://500px.com/p/ch810ya"
       # Footer Contact Info
       [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "address"
-      phone   = "phone"
-      email   = "chai@ch810ya.com"
+      title   = "Get in Touch"
+        [[params.footer.contactInfo.link]]
+          name = "About Me"
+          url  = "/about"
+        [[params.footer.contactInfo.link]]
+          name = "Contact Us"
+          url  = "/contact"
+        [[params.footer.contactInfo.link]]
+          name = "Newsletter"
+          url  = "/about/why-subscribe"
+
       # Footer Service
       [params.footer.service]
         title       = "We help people:"
